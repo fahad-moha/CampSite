@@ -5,8 +5,7 @@
 2. [Description](#description)
 3. [Technologies Used](#technologies-used)
 4. [Third-Party Services](#third-party-services)
-5. [Challenges](#challenges)
-6. [Schedule and Milestones](#schedule-and-milestones)
+
 
 ## Project Overview
 CampSite is a comprehensive web application that aims to revolutionize the way people plan and book their camping experiences. It provides a user-friendly platform for campers to discover, explore, and book their ideal camping destinations.
