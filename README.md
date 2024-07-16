@@ -9,6 +9,9 @@
 
 ## Project Overview
 CampSite is a comprehensive web application that aims to revolutionize the way people plan and book their camping experiences. It provides a user-friendly platform for campers to discover, explore, and book their ideal camping destinations.
+![campsite3](https://github.com/user-attachments/assets/f755f4c3-64aa-4522-86d7-bb524596a2f5)
+![campsite register](https://github.com/user-attachments/assets/88e45149-9770-4e63-949e-489b0dd913df)
+![campsite login](https://github.com/user-attachments/assets/50305838-3b0f-473f-856d-72a72490ce4e)
 
 ## Description
 CampSite is a solo project developed to create a platform that allows users to:
