@@ -38,3 +38,7 @@ The following technologies and frameworks are being used in the development of t
 In addition to the core technologies, CampSite also utilizes the following third-party services:
 
 - **Unsplash API**: For fetching high-quality camp-related images to enhance the visual experience
+
+![campsite3](https://github.com/user-attachments/assets/f755f4c3-64aa-4522-86d7-bb524596a2f5)
+![campsite register](https://github.com/user-attachments/assets/88e45149-9770-4e63-949e-489b0dd913df)
+![campsite login](https://github.com/user-attachments/assets/50305838-3b0f-473f-856d-72a72490ce4e)
